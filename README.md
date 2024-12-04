@@ -36,18 +36,23 @@ This calculator application provides a user-friendly command-line interface for 
 ## 💻 Usage
 # 1. Command Prompt
 
-# Navigate to project directory
-cd path/to/calculator-challenge
+      -> Navigate to project directory
 
-# Run the calculator
-node script.js
+      cd path/to/calculator-challenge
+
+      -> Run the calculator
+
+      node script.js
 
 # 2. PowerShell
- Navigate to project directory
-Set-Location -Path "path/to/calculator-challenge"
 
-# Run the calculator
-node script.js
+    -> Navigate to project directory
+    Set-Location -Path "path/to/calculator-challenge"
+
+   -> Run the calculator
+    node script.js
+
+
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
