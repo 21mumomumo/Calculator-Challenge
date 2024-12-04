@@ -34,7 +34,7 @@ This calculator application provides a user-friendly command-line interface for 
    git clone https://github.com/yourusername/calculator-challenge.git
 
 ## 💻 Usage
-1. Command Prompt
+# 1. Command Prompt
 
 # Navigate to project directory
 cd path/to/calculator-challenge
@@ -42,8 +42,8 @@ cd path/to/calculator-challenge
 # Run the calculator
 node script.js
 
-2. PowerShell
-# Navigate to project directory
+# 2. PowerShell
+ Navigate to project directory
 Set-Location -Path "path/to/calculator-challenge"
 
 # Run the calculator
